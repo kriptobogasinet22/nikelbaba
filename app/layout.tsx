@@ -3,9 +3,9 @@ import type { Metadata } from "next"
 import "./globals.css"
 
 export const metadata: Metadata = {
-  title: "SafeMoneyRobot - Telegram Kripto Bot",
+  title: "Nikel Change Ofis - Telegram Kripto Bot",
   description: "Kripto para dönüşümleri ve fiyat takibi için Telegram botu",
-  generator: "v0.dev",
+  generator: "oioioi",
 }
 
 export default function RootLayout({
